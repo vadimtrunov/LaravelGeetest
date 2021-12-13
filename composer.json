@@ -1,6 +1,6 @@
 {
-  "name": "germey/geetest",
-  "description": "Geetest Package for Laravel5",
+  "name": "vadimtrunov/laravel8-geetest",
+  "description": "Geetest Package for Laravel",
   "keywords": [
     "Geetest",
     "Laravel",
